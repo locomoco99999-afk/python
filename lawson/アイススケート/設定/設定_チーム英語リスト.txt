@@ -1,0 +1,7 @@
+{
+  "team_eigo_dict": {
+    "STARS ON ICE JAPAN TOUR": "STARS ON ICE JAPAN",
+    "STARS ON ICE JAPAN TOUR": "STARS ON ICE JAPAN"
+
+  }
+}

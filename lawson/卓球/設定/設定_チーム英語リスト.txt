@@ -1,0 +1,19 @@
+{
+  "team_eigo_dict": {
+    "ノジマTリーグ": "NOJIMA T.LEAGUE",
+    "T.T彩たま": "T.T SAITAMA",
+
+    "天皇杯・皇后杯": "EMPEROR'S CUP & EMPRESS'S CUP",
+    "木下マイスター東京": "KINOSHITA MEISTER TOKYO",
+    "金沢ポート": "KANAZAWA PORT",
+    "静岡ジェード": "SHIZUOKA JADE",
+    "岡山リベッツ": "OKAYAMA RIVETS",
+    "琉球アスティーダ": "RYUKYU ASTEEDA",
+    "木下アビエル神奈川": "KINOSHITA ABEL KANAGAWA",
+    "トップおとめピンポンズ名古屋": "TOP OTOME PING PONGS NAGOYA",
+    "京都カグヤライズ": "KYOTO KAGUYARISE",
+    "日本生命レッドエルフ": "NIPPON LIFE RED ELF",
+    "日本ペイントマレッツ": "NIPPON PAINT MALLETS",
+    "九州カリーナ": "KYUSHU KARINA"
+  }
+}

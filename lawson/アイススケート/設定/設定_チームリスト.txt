@@ -1,0 +1,8 @@
+{
+    "team_lists": [
+		  ["STARS ON ICE JAPAN TOUR","sports/mevent/?mid=632141"],
+		  ["STARS ON ICE JAPAN TOUR","sports/mevent/?mid=741914"]
+
+    ]
+
+}

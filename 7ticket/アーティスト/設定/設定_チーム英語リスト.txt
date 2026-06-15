@@ -1,0 +1,17 @@
+{
+
+  "team_eigo_dict": {
+    "泉佐野": "SANO IZUMI",
+    "市川由紀乃": "ICHIKAWA YUKINO",
+    "宇崎竜童": "UZAKI RYUUDOU",
+    "坂本冬美": "SAKAMOTO FUYUMI",
+    "真田ナオキ": "SANADA NAOKI",
+    "島津亜矢": "SHIMAZU AYA",
+
+    "前川 清": "MAEKAWA KIYOSHI",
+    "三山ひろし": "MIYAMA HIROSHI",
+    "森山良子": "MORIYAMA RYOUKO",
+    "山川 豊": "YAMAKAWA YUTAKA",
+    "歌心りえ": "UTAKOKORO RIE"    
+	}
+}

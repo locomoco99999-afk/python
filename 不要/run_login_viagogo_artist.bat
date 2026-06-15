@@ -1,0 +1,2 @@
+python login_viagogo_artist.py
+pause

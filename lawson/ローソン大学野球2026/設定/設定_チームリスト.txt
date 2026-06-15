@@ -1,0 +1,5 @@
+{
+  "team_lists": [
+      ["東京六大学野球", "sports/mevent/?mid=225833"]
+  ]
+}

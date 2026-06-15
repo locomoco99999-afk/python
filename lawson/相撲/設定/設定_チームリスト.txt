@@ -1,0 +1,10 @@
+{
+	"team_lists": [
+	
+		["相撲", "sports/mevent/?mid=482533"],
+		["相撲", "sports/mevent/?mid=467859"],
+		["相撲", "sports/mevent/?mid=674133"]		
+	  	  	  	   	  	  
+    ]
+
+}

@@ -1,0 +1,13 @@
+{
+    "team_eigo_dict": {
+    
+	    "木下大サーカス": "Kinoshita Circus",
+	    "ハッピードリームサーカス": "Happy Dream Circus",
+	    "ポップサーカス": "Pop Circus"
+	        
+	        
+	        
+	        
+        
+    }
+}

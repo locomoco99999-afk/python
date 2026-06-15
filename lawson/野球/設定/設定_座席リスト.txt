@@ -1,0 +1,127 @@
+{
+  "seat_map": {
+    "指定席SS（バックネット裏）": ["指定席SS（バックネット裏）","指定席SS","SS Reserved"],
+    "指定席SS（3塁側）": ["指定席SS（3塁側）","SS Reserved"],
+    "指定席SS（1塁側）": ["指定席SS（1塁側）","SS Reserved"],
+    "エキサイトシート（1塁側）": ["エキサイトシート（1塁側）"],
+    "エキサイトシート（3塁側）": ["エキサイトシート（3塁側）"],
+    
+    
+    "指定席SS": ["指定席SS","SS指定席","SS Reserved","Reserved SS","SS Seat"],
+    "指定席S": ["指定席S","S指定席","S Reserved","Reserved S","S Seat"],
+    "指定席A": ["指定席A","A指定席","A Reserved","Reserved A","A Seat"],    
+    "指定席B": ["指定席B","B指定席","B Reserved","Reserved B","B Seat"],     
+    
+    
+    
+    
+    "内野２階指定席": ["内野２階指定席","InField 2F"],         
+"３塁側パフォーマンス": ["３塁側パフォーマンス","3rd Base Performance"],         
+    
+"内野Ｓ３塁側": ["内野Ｓ３塁側","Infield S"],     
+"内野Ａ３塁側": ["内野Ａ３塁側","Infield A"],     
+"内野Ｂ３塁側": ["内野Ｂ３塁側","Infield B"],     
+
+"内野Ｓ１塁側": ["内野Ｓ１塁側","Infield S"],     
+
+"ビジター内野応援": ["ビジター内野応援","Visitor Infield Support"],     
+"ビジター外野応援": ["ビジター外野応援","Visitor Outfield Support"],     
+
+"カープパフォーマンスＢ": ["カープパフォーマンスＢ","カープパフォーマンスB"],     
+"外野指定席１階レフト": ["外野指定席１階レフト","外野指定席 レフト"],  
+"外野指定席１階ライト": ["外野指定席１階ライト","外野指定席 ライト"],  
+
+"パノラマＡ１塁側": ["パノラマＡ１塁側","パノラマA","panorama A"],     
+"パノラマＡ３塁側": ["パノラマＡ３塁側","パノラマA","panorama A"],     
+"パノラマＡ１塁": ["パノラマＡ１塁","パノラマA","panorama A"],     
+"パノラマＡレフト側": ["パノラマＢレフト側","パノラマA","panorama A"],   
+"パノラマＡライト側": ["パノラマＢライト側","パノラマA","panorama A"],   
+
+"内野Ａ１塁側": ["内野Ａ１塁側","Infield A"],     
+
+
+
+"パノラマＢ３塁": ["パノラマＢ３塁","パノラマB","panorama B"],     
+"パノラマＢ１塁": ["パノラマＢ１塁","パノラマB","panorama B"],   
+"パノラマＢレフト側": ["パノラマＢレフト側","パノラマB","panorama B"],   
+"パノラマＢライト側": ["パノラマＢライト側","パノラマB","panorama B"],   
+ 
+
+    "指定席A 1塁": ["指定席A","A指定席","A Reserved","Reserved A","A Reserved","Reserved A 1st Base","A Seat"], 
+"指定席A 1塁側": ["指定席A","A指定席","A Reserved","Reserved A","A Reserved","Reserved A 1st Base","A Seat"],     
+    "指定席A 3塁": ["指定席A","A指定席","A Reserved","Reserved A","A Reserved","Reserved A 3rd Base","A Seat"], 
+"指定席A 3塁側": ["指定席A","A指定席","A Reserved","Reserved A","A Reserved","Reserved A 3rd Base","A Seat"],     
+    "指定席B 1塁": ["指定席B","B指定席","B Reserved","Reserved B","B Reserved","Reserved B 1st Base","B Seat"],  
+"指定席B 1塁側": ["指定席B","B指定席","B Reserved","Reserved B","B Reserved","Reserved B 1st Base","B Seat"],     
+    "指定席B 3塁": ["指定席B","B指定席","B Reserved","Reserved B","B Reserved","Reserved B 3rd Base","B Seat"], 
+"指定席B 3塁側": ["指定席B","B指定席","B Reserved","Reserved B","B Reserved","Reserved B 3rd Base","B Seat"], 
+    "指定席C ": ["指定席C","C指定席","C Reserved","Reserved C","C Reserved","Reserved C 1st Base","Reserved C 3rd Base","指定席C中央","C指定席中央","指定席C1塁側","指定席C3塁側","C Seat"], 
+    "指定席C中央 ": ["指定席C","C指定席","C Reserved","Reserved C","C Reserved","指定席C中央","C指定席中央","C Seat"],
+    "指定席C 1塁": ["指定席C","C指定席","C Reserved","Reserved C","C Reserved","Reserved C 1st Base","C Seat"],
+"指定席C 1塁側": ["指定席C","C指定席","C Reserved","Reserved C","C Reserved","Reserved C 1st Base","C Seat"],     
+    "指定席C 3塁": ["指定席C","C指定席","C Reserved","Reserved C","C Reserved","Reserved C 3rd Base","C Seat"],  
+    "指定席D ": ["指定席D","D指定席","D Reserved","Reserved D","D Reserved","Reserved D 1st Base","Reserved D 3rd Base","指定席D中央","D指定席中央","指定席D1塁側","指定席D3塁側","D Seat"], 
+    "指定席D 1塁": ["指定席D","D指定席","D Reserved","Reserved D","D Reserved","Reserved D 1st Base","D Seat"], 
+"指定席D 1塁側": ["指定席D","D指定席","D Reserved","Reserved D","D Reserved","Reserved D 1st Base","D Seat"],     
+    "指定席D 3塁": ["指定席D","D指定席","D Reserved","Reserved D","D Reserved","Reserved D 3rd Base","D Seat"], 
+"指定席D 3塁側": ["指定席D","D指定席","D Reserved","Reserved D","D Reserved","Reserved D 3rd Base","D Seat"],
+"指定席FC中央": ["指定席FC","FC 指定席","FC Reserved","Reserved FC","FC Seat"],
+"指定席FC3塁": ["指定席FC3塁側","指定席FC","FC 指定席","FC Reserved","Reserved FC","Reserved FC 3rd Base","Reserved FC 3rd Base","FC Seat"],
+    "指定席FC3塁側": ["指定席FC3塁側","指定席FC","FC 指定席","FC Reserved","Reserved FC","Reserved FC 3rd Base","Reserved FC 3rd Base","FC Seat"],
+"指定席FC1塁": ["指定席FC1塁側","指定席FC","FC 指定席","FC Reserved","Reserved FC","Reserved FC 1st Base","Reserved FC 31st Base","FC Seat"],       
+    "指定席FC1塁側": ["指定席FC1塁側","指定席FC","FC 指定席","FC Reserved","Reserved FC","Reserved FC 1st Base","Reserved FC 31st Base","FC Seat"],    
+
+    "内野自由席A（1塁側）": ["内野自由席A（1塁側）","自由席","Infield Unreserved Seats","Unreserved Infield Seats","Infield Unreserved","Unreserved Infield"],
+    "内野自由席A（3塁側）": ["内野自由席A（3塁側）","自由席","Infield Unreserved Seats","Unreserved Infield Seats","Infield Unreserved","Unreserved Infield"],
+    "内野自由席B（1塁側）": ["内野自由席B（1塁側）","自由席","Infield Unreserved Seats","Unreserved Infield Seats","Infield Unreserved","Unreserved Infield"],
+    "内野自由席B（3塁側）": ["内野自由席B（3塁側）","自由席","Infield Unreserved Seats","Unreserved Infield Seats","Infield Unreserved","Unreserved Infield"],
+    "外野自由": ["外野自由","自由席","Outfield Unreserved Seats","Outfield Unreserved","Unreserved Outfield"],
+    "うちなーシート": ["うちなーシート"],
+    
+    
+             
+    "指定席S中央（2階席）": ["指定席S中央（2階席）","指定席S","S 指定席","S Reserved","Reserved S"],
+    "指定席S1塁側（2階席）": ["指定席S1塁側（2階席）","指定席S","S 指定席","S Reserved","Reserved S"],
+    "指定席S3塁側（2階席）": ["指定席S3塁側（2階席）","指定席S","S 指定席","S Reserved","Reserved S"],
+    
+    
+    "A指定席【1塁】": ["A指定席【1塁】","指定席A","A 指定席","A Reserved","Reserved A"],
+    "A指定席【3塁】": ["A指定席【3塁】","指定席A","A 指定席","A Reserved","Reserved A"],
+    "B指定席【1塁】": ["B指定席【1塁】","指定席B","B 指定席","B Reserved","Reserved B","B Seat"],
+    "B指定席【3塁】": ["B指定席【3塁】","指定席B","B 指定席","B Reserved","Reserved B","B Seat"],
+    "C指定席【1塁】": ["C指定席【1塁】","指定席C","C 指定席","C Reserved","Reserved C"],
+    "C指定席【3塁】": ["C指定席【3塁】","指定席C","C 指定席","C Reserved","Reserved C"],
+    "D指定席【1塁】": ["D指定席【1塁】","指定席D","D 指定席","D Reserved","Reserved D"],
+    "D指定席【3塁】": ["D指定席【3塁】","指定席D","D 指定席","D Reserved","Reserved D"],
+
+    
+    "指定席A中央（2階席）": ["指定席A中央（2階席）","指定席A","A 指定席","A Reserved","Reserved A"],
+    "指定席A1塁側（2階席）": ["指定席A1塁側（2階席）","指定席A","A 指定席","A Reserved","Reserved A"],
+    "指定席A3塁側（2階席）": ["指定席A3塁側（2階席）","指定席A","A 指定席","A Reserved","Reserved A"],   
+    "指定席B中央（2階席）": ["指定席B中央（2階席）","指定席B","B 指定席","B Reserved","Reserved B"],
+    "指定席B1塁側（2階席）": ["指定席B1塁側（2階席）","指定席B","B 指定席","B Reserved","Reserved B"],
+    "指定席B3塁側（2階席）": ["指定席B3塁側（2階席）","指定席B","B 指定席","B Reserved","Reserved B"],
+    "指定席C中央（2階席）": ["指定席C中央（2階席）","指定席C","C 指定席","C Reserved","Reserved C"],
+    "指定席C1塁側（2階席）": ["指定席C1塁側（2階席）","指定席C","C 指定席","C Reserved","Reserved C"],
+    "指定席C3塁側（2階席）": ["指定席C3塁側（2階席）","指定席C","C 指定席","C Reserved","Reserved C"],
+    
+    
+    "外野指定席ライト側": ["外野指定席ライト側","外野指定席ライト"],
+    "レフト巨人応援席": ["レフト巨人応援席","レフト外野指定巨人応援席"],
+    "指定席Sネット裏": ["指定席Sネット裏","S 指定席 (ネット裏)"],
+    "指定席Aネット裏": ["指定席Aネット裏","A Reserve Behind the Net"],
+    "指定席A1塁側": ["指定席A1塁側","A 指定席 (1塁側)"],
+    "指定席A3塁側": ["指定席A3塁側","A 指定席 (3塁側)"],
+    "指定席B1塁側": ["指定席B1塁側","B 指定席 (1塁側)"],
+    "指定席B3塁側": ["指定席B3塁側","B 指定席 (3塁側)"],
+    "外野指定席レフト側": ["外野指定席レフト側","外野指定席レフト"],
+    "外野ビジター応援席": ["外野ビジター応援席","外野指定ビジターチーム応援席"],
+    "内野自由席1階": ["内野自由席1階","Infield Unreserved Seats","Infield Unreserved"],
+    "内野自由席2階": ["内野自由席2階","Infield Unreserved Seats","Infield Unreserved"],
+    "外野自由席": ["外野自由席","外野自由","Outfield Unreserved Seats","Outfield Unreserved","Unreserved Outfield"],
+    "内野S指定席": ["内野S指定席"],
+    
+     
+    "内野A指定席（1塁側）": ["内野A指定席（1塁側）"]
+  }
+}

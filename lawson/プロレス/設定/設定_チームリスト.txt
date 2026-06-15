@@ -1,0 +1,32 @@
+{
+    "team_lists": [
+		  ["新日本プロレス", "sports/mevent/?mid=188643"],
+		  ["スターダム", "sports/mevent/?mid=111750"],
+		  ["ドラゴンゲート", "sports/mevent/?mid=124322"],
+		  ["大日本プロレス", "sports/mevent/?mid=121414"],
+		  ["プロレスリング・ノア", "sports/mevent/?mid=111745"],
+		  ["GLEAT", "sports/mevent/?mid=539879"],
+		  ["OZアカデミー女子プロレス", "sports/mevent/?mid=125018"],
+		  ["DDTプロレスリング", "sports/mevent/?mid=121741"],
+		  ["プロレスリングWAVE", "sports/mevent/?mid=124232"],
+		  ["PURE-J女子プロレス", "sports/mevent/?mid=121280"],
+		  ["みちのくプロレス", "sports/mevent/?mid=122961"],
+		  ["センダイガールズプロレスリング", "sports/mevent/?mid=124500"],
+		  ["大阪プロレス", "sports/mevent/?mid=129103"],
+		  ["東京女子プロレス", "sports/mevent/?mid=120198"],
+		  ["道頓堀プロレス", "sports/mevent/?mid=117042"],
+		  ["マーベラス", "sports/mevent/?mid=192104"],
+		  ["ベストボディ・ジャパンプロレス", "sports/mevent/?mid=418342"],
+		  ["プロフェッショナルレスリング JUST TAP OUT", "sports/mevent/?mid=441015"],
+		  ["全日本プロレス", "sports/mevent/?mid=123442"],
+		  ["プロレスリングHEAT-UP", "sports/mevent/?mid=519697"],
+		  ["天龍プロジェクト", "sports/mevent/?mid=525997"],
+		  ["サンセイアールアンドディ presents WRESTLE KINGDOM 20 in 東京ドーム 棚橋弘至引退", "sports/mevent/?mid=671003"],
+		  ["プロレスリングZERO1", "sports/mevent/?mid=753762"],
+		  ["マリーゴールド", "sports/mevent/?mid=765965"],
+		  ["ウナギ・サヤカ", "sports/mevent/?mid=767312"],
+		  ["Fortune Dream 11", "sports/mevent/?mid=685595"]
+
+    ]
+
+}

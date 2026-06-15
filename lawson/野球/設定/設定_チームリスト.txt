@@ -1,0 +1,16 @@
+{
+  "team_lists": [
+      ["阪神タイガース", "sports/mevent/?mid=113345"],
+      ["横浜DeNAベイスターズ", "sports/mevent/?mid=113348"],
+      ["読売ジャイアンツ", "sports/mevent/?mid=397143"],
+    ["中日ドラゴンズ", "sports/mevent/?mid=113347"],
+      ["広島東洋カープ", "sports/mevent/?mid=113346"],
+    ["東京ヤクルトスワローズ", "sports/mevent/?mid=113349"],
+    ["福岡ソフトバンクホークス", "sports/mevent/?mid=113336"],
+    ["北海道日本ハムファイターズ", "sports/mevent/?mid=113340"],
+    ["オリックス・バファローズ", "sports/mevent/?mid=113163"],
+    ["東北楽天ゴールデンイーグルス", "sports/mevent/?mid=113165"],
+    ["埼玉西武ライオンズ", "sports/mevent/?mid=394606"],
+    ["千葉ロッテマリーンズ", "sports/mevent/?mid=113343"]
+  ]
+}

@@ -1,0 +1,742 @@
+<!DOCTYPE html>
+<html lang="ja" class="no-js">
+<head>
+
+<title>浦和レッズ | Ｊリーグチケット【公式】</title>
+<meta charset="utf-8" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+
+
+<meta name="viewport" content="width=1180, user-scalable=no" />
+
+<meta name="description" content="Ｊリーグチケットは、唯一のＪリーグ公式チケット販売サイトです。チケット購入はこちらから。" />
+<meta name="keyword" content="Ｊリーグチケット,サッカー,Ｊリーグ主催試合,Ｊ１リーグ戦,Ｊ２リーグ戦,Ｊ３リーグ戦,ルヴァンカップ,FUJIFILM SUPER CUP,Ｊ１参入プレーオフ,ACL,スルガ銀行CS,天皇杯" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="Ｊリーグチケットは、唯一のＪリーグ公式チケット販売サイトです。チケット購入はこちらから。" />
+<meta property="og:title" content="浦和レッズ" />
+<meta property="og:url" content="https://www.jleague-ticket.jp/club/ur/top/" />
+<meta property="og:image" itemprop="image" content="https://www.jleague-ticket.jp/img/libs/ur-ogp.png" />
+<meta property="og:site_name" content="Ｊリーグチケット" />
+<meta name="twitter:card" content="summary_large_image" />
+<link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/img/libs/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/img/libs/touch.png" />
+<link rel="apple-touch-icon-precomposed" href="/img/libs/touch.png" />
+<link rel="icon" sizes="192x192" href="/img/libs/touch.png" />
+<link rel="stylesheet" href="/css/common.css?ver=202510161200" />
+<link rel="stylesheet" href="/css/static.css?ver=202510161200" />
+<link rel="stylesheet" href="/css/venue.css?ver=202510161200" />
+<script src="/webjars/jquery/3.7.1/jquery.min.js"></script>
+<script>/*<![CDATA[*/ (window.jQuery || document .write('<script src="/js/libs/jquery.min.js"><\/script>')); /*]]>*/</script>
+<script src="/js/libs/modernizr-custom.js"></script>
+<!--[if IE]>
+<script src="/js/libs/flexibility.js"></script>
+<script src="/js/libs/polyfill.js"></script>
+<![endif]-->
+
+<!-- Google Tag Manager -->
+<script>/*<![CDATA[*/(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TTJNFTR');/*]]>*/</script>
+<!-- End Google Tag Manager -->
+
+</head>
+<body id="club-ur" class="club-page">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TTJNFTR" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="non-clicks"><div class="loader" title="0"><div class="loaderCss"></div><p>NOW LOADING</p></div></div>
+<div class="page">
+  
+    <header class="header">
+      <h1 class="title noUserName">
+        <a href="/">
+          <img src="/img/logo.png" alt="Ｊリーグチケット" />
+        </a>
+        <span></span>
+      </h1>
+      <nav class="h-link sp">
+        <ul>
+          <li>
+            <a href="/request/login">
+            <span><i class="fa fa-sign-in" aria-hidden="true"></i></span>
+            <span>ログイン</span>
+            </a>
+          </li>
+          <li>
+            <a href="/request/registration">
+            <span><i class="fa fa-user-plus" aria-hidden="true"></i></span>
+            <span>利用登録</span>
+            </a>
+          </li>
+        </ul>
+      </nav>
+      
+      <nav class="h-link">
+        <ul>
+          <li><a href="https://list.jleague-ticket.jp/myticket?jlogin=1"><span class="pc">チケット一覧/</span><span class="sp"><i class="fa fa-qrcode"></i></span><span>QR発券</span></a></li>
+          
+        </ul>
+
+      </nav>
+      <nav class="h-trig pc">
+        <ul>
+          <li><a href="#" class="modal-account js-pc-modal"><i class="fa fa-cog" aria-hidden="true"></i><span>アカウント<br />メニュー</span></a></li>
+          <li><a href="#" class="modal-support js-pc-modal"><i class="fa fa-question-circle" aria-hidden="true"></i><span>サポート<br />メニュー</span></a></li>
+        </ul>
+      </nav>
+      <div class="hbg js-hbg sp">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </header>
+    <nav class="ov-nav js-ov-nav">
+    <div class="ov-nav-close js-ov-nav-close pc"><span>CLOSE</span></div>
+    <p class="ov-nav-ttl ttl-support"><i class="fa fa-question-circle" aria-hidden="true"></i><b>サポート</b><span>SUPPORT MENU</span></p>
+    <ul class="nav-support">
+      <li><a href="/guide"><span><i class="fa fa-question-circle" aria-hidden="true"></i></span> ご利用ガイド</a></li>
+      <li><a href="/site/faq"><span><i class="fa fa-comments" aria-hidden="true"></i></span> よくある質問</a></li>
+      <li><a href="/contact"><span><i class="fa fa-envelope" aria-hidden="true"></i></span> お問い合わせ</a></li>
+    </ul>
+    <p class="ov-nav-ttl ttl-account"><i class="fa fa-cog" aria-hidden="true"></i><b>アカウントメニュー</b><span>ACCOUNT MENU</span></p>
+    <ul class="nav-account">
+      
+      <li><a href="/request/login"><i class="fa fa-sign-in" aria-hidden="true"></i> ログイン</a></li>
+      <li><a href="/request/registration"><i class="fa fa-user-plus" aria-hidden="true"></i> ご利用登録（無料）</a></li>
+      <li><a href="https://list.jleague-ticket.jp/myticket?jlogin=1"><i class="fa fa-shopping-cart" aria-hidden="true"></i> チケット一覧/QR発券</a></li>
+      
+      
+    </ul>
+  </nav>
+  
+
+  
+
+  <div class="contents">
+      
+      <div class="top-slider-wrap">
+        <div class="top-slider">
+          <ul class="js-top-slider">
+            <li>
+              <a href="https://www.urawa-reds.co.jp/clubinfo/231514/">
+                <img src="/img/clubslider/45-20250911182207-578254884127375719.jpg" />
+              </a>
+              
+            </li>
+            <li>
+              <a href="https://www.urawa-reds.co.jp/clubinfo/231516/">
+                <img src="/img/clubslider/46-20250911182601-1206_ブランケット付きpc (1).jpg" />
+              </a>
+              
+            </li>
+            <li>
+              <a href="https://www.urawa-reds.co.jp/clubinfo/231502/">
+                <img src="/img/clubslider/55-20250911182119-ticket_info_rex-1980-834_1206.jpg" />
+              </a>
+              
+            </li>
+            <li>
+              <a href="https://www.urawa-reds.co.jp/clubinfo/232807/">
+                <img src="/img/clubslider/70-20251016182250-2025_koroki (1).jpg" />
+              </a>
+              
+            </li>
+            <li>
+              <a href="https://www.urawa-reds.co.jp/clubinfo/%E3%80%8C%E7%89%B9%E5%AE%9A%E8%88%88%E8%A1%8C%E5%85%A5%E5%A0%B4%E5%88%B8%E3%80%8D%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AE%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%81%E3%82%B1%E3%83%83/">
+                <img src="/img/clubslider/9993-20211202124952-JT_uo_ticket_resale_ban-S (1).jpg" />
+              </a>
+              
+            </li>
+          </ul>
+        </div>
+      </div>
+      
+
+      
+      <div class="flx">
+        <div class="flx-main">
+          
+          <section class="next-game">
+            <h3 class="ttl-bold">NEXT GAME</h3>
+            
+            
+            <div class="comp">
+              <div class="comp-ttk">
+                <span class="bg-j1"></span>明治安田Ｊ１リーグ
+              </div>
+              
+              
+                
+              
+              
+              
+              
+              
+              <div class="comp-status bg-no">空席なし</div>
+                
+                
+              
+            </div>
+            <div class="vs-box">
+              
+              <a href="/sales/perform/2538695/001">
+                <div class="vs-box-home">
+                  <div class="vs-box-home-txt">HOME</div>
+                  <div class="vs-box-home-logo">
+                    <img src="/img/club/img/fo_l.png" alt="" />
+                    <h4>岡山</h4>
+                  </div>
+                </div>
+                <div class="vs-box-info">
+                  <span class="vs-box-info-day">11/30</span>
+                  <span class="vs-box-info-youbi">（<span class="c-holiday">日</span>）</span>
+                  <span class="vs-box-info-time">14:00</span>
+                  <span class="vs-box-info-place">ＪＦＥ晴れの国スタジアム</span>
+                </div>
+                <div class="vs-box-away">
+                  <div class="vs-box-away-logo">
+                    <img src="/img/club/img/ur_l.png" alt="" />
+                    <h4>浦和</h4>
+                  </div>
+                  <div class="vs-box-away-txt">AWAY</div>
+                </div>
+              </a>
+            </div>
+            
+          </section>
+          
+
+          <section class="ticket">
+            <h3 class="ttl-bold">TICKET</h3>
+            <ul class="ticket-tab js-ticket-tab">
+              <li><span>HOME</span></li>
+              <li><span>AWAY</span></li>
+            </ul>
+            <ul class="ticket-tab-child js-ticket-tab-child">
+              <li>
+                <!--ホームここから-->
+                <div class="game-list">
+                  
+                  <ul>
+                    <li>
+                      <a href="/sales/perform/2532731/001">
+                        <div class="comp">
+                          <div class="comp-ttk">
+                            <span class="bg-j1"></span>明治安田Ｊ１リーグ
+                          </div>
+                          
+                          
+                        </div>
+                        <div class="vs-box">
+                          <div class="vs-box-info">
+                            <div>
+                              <span class="vs-box-info-day c-saturday">12/6</span>
+                              <span class="vs-box-info-time">14:00</span>
+                            </div>
+                          </div>
+                          <div class="vs-box-vs">
+                            <span>
+                              <img src="/img/club/img/kf_l.png" alt="" />
+                              
+                            </span>
+                          </div>
+                          <div class="vs-box-place">
+                            <p class="team-name">川崎フロンターレ</p>
+                            <span>埼玉スタジアム２００２</span>
+                          </div>
+                          
+                          <div class="vs-box-ticket">
+                            <span class="ticket-status vacant" href="/sales/perform/2532731/001">チケット購入</span>
+                            
+                            
+                          </div>
+                          <div class="vs-box-status">
+                            
+                            
+                              <img src="/img/ico_vacant.png" alt="" />
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                              <div class="comp-status bg-vacant">空席あり</div>
+                            
+                            
+                            
+                            
+                            
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/sales/perform/2532733/001">
+                        <div class="comp">
+                          <div class="comp-ttk">
+                            <span class="bg-ot"></span>その他
+                          </div>
+                          
+                          
+                        </div>
+                        <div class="vs-box">
+                          <div class="vs-box-info">
+                            <div>
+                              <span class="vs-box-info-day c-saturday">12/6</span>
+                              <span class="vs-box-info-time">14:00</span>
+                            </div>
+                          </div>
+                          
+                          
+                          <div class="vs-box-vs-place">
+                            <p>浦和レッズ対川崎フロンターレ</p>
+                            <span>埼玉スタジアム２００２</span>
+                          </div>
+                          <div class="vs-box-ticket">
+                            <span class="ticket-status vacant" href="/sales/perform/2532733/001">チケット購入</span>
+                            
+                            
+                          </div>
+                          <div class="vs-box-status">
+                            
+                            
+                              <img src="/img/ico_vacant.png" alt="" />
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                              <div class="comp-status bg-vacant">空席あり</div>
+                            
+                            
+                            
+                            
+                            
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/sales/perform/2538732/001">
+                        <div class="comp">
+                          <div class="comp-ttk">
+                            <span class="bg-ot"></span>その他
+                          </div>
+                          
+                          
+                        </div>
+                        <div class="vs-box">
+                          <div class="vs-box-info">
+                            <div>
+                              <span class="vs-box-info-day c-saturday">12/13</span>
+                              <span class="vs-box-info-time">16:00</span>
+                            </div>
+                          </div>
+                          
+                          
+                          <div class="vs-box-vs-place">
+                            <p>興梠慎三引退試合</p>
+                            <span>埼玉スタジアム２００２</span>
+                          </div>
+                          <div class="vs-box-ticket">
+                            <span class="ticket-status vacant" href="/sales/perform/2538732/001">チケット購入</span>
+                            
+                            
+                          </div>
+                          <div class="vs-box-status">
+                            
+                            
+                              <img src="/img/ico_vacant.png" alt="" />
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                              <div class="comp-status bg-vacant">空席あり</div>
+                            
+                            
+                            
+                            
+                            
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                    
+                  </ul>
+                </div>
+                <!--ホームここまで-->
+              </li>
+              <li>
+                <!--アウェイここから-->
+                <div class="game-list">
+                  
+                  <ul>
+                    <li class="bg-none">
+                      <a href="/sales/perform/2538695/001">
+                        <div class="comp">
+                          <div class="comp-ttk">
+                            <span class="bg-j1"></span>明治安田Ｊ１リーグ
+                          </div>
+                          
+                          
+                        </div>
+                        <div class="vs-box">
+                          <div class="vs-box-info">
+                            <div>
+                              <span class="vs-box-info-day c-holiday">11/30</span>
+                              <span class="vs-box-info-time">14:00</span>
+                            </div>
+                          </div>
+                          <div class="vs-box-vs">
+                            <span>
+                              <img src="/img/club/img/fo_l.png" alt="" />
+                              
+                            </span>
+                          </div>
+                          <div class="vs-box-place">
+                            <p class="team-name">ファジアーノ岡山</p>
+                            <span>ＪＦＥ晴れの国スタジアム</span>
+                          </div>
+                          
+                          <div class="vs-box-ticket">
+                            
+                            
+                            
+                              
+                                
+                            <span class="ticket-status no" href="/sales/perform/2538695/001">チケット購入</span>
+                            
+                                
+                              
+                              
+                            
+                          </div>
+                          <div class="vs-box-status">
+                            
+                            
+                              
+                            
+                            
+                            
+                            
+                              
+                                
+                            <img src="/img/ico_no.png" alt="" />
+                            
+                                
+                              
+                              
+                            
+                            
+                            
+                            
+                              
+                            
+                            
+                            
+                            
+                              
+              
+              
+                            
+              
+                            
+                            
+                            <div class="comp-status bg-no">空席なし</div>
+                              
+                              
+                            
+                            
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                    <li class="bg-none">
+                      <a href="/sales/perform/2538698/001">
+                        <div class="comp">
+                          <div class="comp-ttk">
+                            <span class="bg-ot"></span>その他
+                          </div>
+                          
+                          
+                        </div>
+                        <div class="vs-box">
+                          <div class="vs-box-info">
+                            <div>
+                              <span class="vs-box-info-day c-holiday">11/30</span>
+                              <span class="vs-box-info-time">14:00</span>
+                            </div>
+                          </div>
+                          
+                          
+                          <div class="vs-box-vs-place">
+                            <p>ファジアーノ岡山対浦和レッズ＜車いす席＞</p>
+                            <span>ＪＦＥ晴れの国スタジアム</span>
+                          </div>
+                          <div class="vs-box-ticket">
+                            
+                            
+                            
+                              
+                                
+                            <span class="ticket-status no" href="/sales/perform/2538698/001">チケット購入</span>
+                            
+                                
+                              
+                              
+                            
+                          </div>
+                          <div class="vs-box-status">
+                            
+                            
+                              
+                            
+                            
+                            
+                            
+                              
+                                
+                            <img src="/img/ico_no.png" alt="" />
+                            
+                                
+                              
+                              
+                            
+                            
+                            
+                            
+                              
+                            
+                            
+                            
+                            
+                              
+              
+              
+                            
+              
+                            
+                            
+                            <div class="comp-status bg-no">空席なし</div>
+                              
+                              
+                            
+                            
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="/sales/perform/2539405/001">
+                        <div class="comp">
+                          <div class="comp-ttk">
+                            <span class="bg-ot"></span>その他
+                          </div>
+                          
+                          
+                        </div>
+                        <div class="vs-box">
+                          <div class="vs-box-info">
+                            <div>
+                              <span class="vs-box-info-day c-holiday">12/21</span>
+                              <span class="vs-box-info-time">14:00</span>
+                            </div>
+                          </div>
+                          
+                          
+                          <div class="vs-box-vs-place">
+                            <p>柏木陽介引退試合「仲間に感謝、岐阜から未来を」</p>
+                            <span>岐阜メモリアルセンター長良川競技場</span>
+                          </div>
+                          <div class="vs-box-ticket">
+                            <span class="ticket-status vacant" href="/sales/perform/2539405/001">チケット購入</span>
+                            
+                            
+                          </div>
+                          <div class="vs-box-status">
+                            
+                            
+                              <img src="/img/ico_vacant.png" alt="" />
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                              <div class="comp-status bg-vacant">空席あり</div>
+                            
+                            
+                            
+                            
+                            
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                    
+                    
+                    
+                    
+                  </ul>
+                </div>
+                <!--アウェイここまで-->
+              </li>
+            </ul>
+          </section>
+        </div>
+        <div class="flx-side dir-replace">
+          <section class="top-bnr middle">
+            <ul>
+              <li>
+                <a href="http://www.urawa-reds.co.jp/ticket/reds_ticket2017/">
+                  <img src="/img/clubcontents/0-20190307102758-浦和レッズ.png" />
+                </a>
+              </li>
+            </ul>
+          </section>
+
+          
+          
+          
+
+          <section class="top-contact bottom">
+            <h3 class="ttl-bold">CONTACT</h3>
+            <div class="information">
+            <p class="contact-ttl">チケットの購入方法のお問い合わせ</p>
+
+            
+
+            
+
+            <p class="contact-item">
+              <span><i class="fa fa-internet-explorer" aria-hidden="true"></i></span>
+              <a href="https://www.jleague-ticket.jp/contact" target="_blank">https://www.jleague-ticket.jp/contact</a>
+            </p>
+
+            
+            </div>
+
+            
+
+          </section>
+
+        </div>
+        <!-- /.flx-side -->
+      </div>
+      <!-- /.flx -->
+      <script>
+        $(function(){
+          //クラブページ独自処理
+          var clubCode = 'ur';
+          //cicket.png　をPCとスマホで分けるクラブ　PC：ticket_pc.png　SP：ticket.png
+          var clubBgArray = ['af','an','bm','eh','kt','mh','my','mz','rk','sh','t2','to','vs','vv','yg','vn','fo','km','ba','ts','ac','pa','ks','yk','vo'];
+          //SP
+          if (Modernizr.mq('only screen and (max-width: 767px)')) {
+        	
+            
+              $('.title img').attr('src','/img/club/img/' + clubCode + '_ticket.png').css({'width':'100px',})
+            
+          }
+          //PC
+          if (Modernizr.mq('only screen and (min-width: 768px)')) {
+        	
+            
+              if(clubBgArray.indexOf(clubCode) >= 0) {
+                $('.title span').html('<img src="/img/club/img/' + clubCode + '_ticket_pc.png" alt="Ｊリーグチケット" />');
+              } else {
+                $('.title span').html('<img src="/img/club/img/' + clubCode + '_ticket.png" alt="Ｊリーグチケット" />');
+              }
+            
+            $('.next-game').prependTo($('.top-topics'));
+          }
+        });
+      </script>
+    </div>
+
+  <a href="/index" class="btn-prev">
+    <i class="fa fa-angle-left" aria-hidden="true"></i>戻る
+  </a>
+
+  <footer class="footer">
+    
+      <nav class="f-nav">
+        <ul>
+          <li>
+            <a href="/guide/first">はじめての方へ</a>
+          </li>
+          <li>
+            <a href="/guide">ご利用ガイド</a>
+          </li>
+          <li>
+            <a href="/site/security">動作環境・セキュリティ</a>
+          </li>
+          <li>
+            <a href="/site/privacy">プライバシーポリシー</a>
+          </li>
+          <li>
+            <a href="/site/cookie">外部送信ポリシー</a>
+          </li>
+          <li>
+            <a href="/site/agreement">利用規約</a>
+          </li>
+          <li>
+            <a href="/site/orderlow">特定商取引法に基づく表示</a>
+          </li>
+          <li>
+            <a href="/site/faq">よくある質問</a>
+          </li>
+          <li>
+            <a href="/contact">お問合せ</a>
+          </li>
+          <li class="sp">
+            <a>　</a>
+          </li>
+        </ul>
+      </nav>
+    
+    
+    <p class="footer-caution">本サイトで使用している文章・画像等の無断での複製・転載を禁止します。</p>
+    <div class="footer-in">
+      <div class="footer-logo">
+        <a href="/"><img src="/img/logo.png" alt="Ｊリーグチケット" /></a>
+      </div>
+      <p class="copyright">
+        <small>&copy; JAPAN PROFESSIONAL FOOTBALL LEAGUE.</small>
+        <small>&copy; PIA CORPORATION. ALL RIGHTS RESERVED.</small>
+      </p>
+    </div>
+  </footer>
+</div>
+<!-- /.page -->
+<div class="modal-ov"></div>
+<script src="/js/app.js?ver=202510161200"></script>
+<script src="/js/common.js?ver=202510161200"></script>
+<script src="/js/perform.js?ver=202510161200"></script>
+<script src="/js/jquery.blockUI.js"></script>
+<script src="/js/jquery.imagemapster.min.js"></script>
+<script src="/js/venue.js?ver=202505121605"></script>
+<script src="/js/basket.js?ver=202510161200"></script>
+<script>
+  var club = "ur";
+  var jtkLogo = document.querySelector('.title a');
+  if (club) {
+    if (Modernizr.mq('only screen and (min-width: 768px)')) {
+      jtkLogo.style.display = 'none';
+    } else {
+      jtkLogo.setAttribute('href','javascript:void(0)');
+      jtkLogo.style.pointerEvents = 'none';
+    }
+  }
+  </script>
+</body>
+</html>

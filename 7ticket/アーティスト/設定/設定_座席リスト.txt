@@ -1,0 +1,79 @@
+{
+  "seat_map": {
+    "指定席SS（バックネット裏）": ["指定席SS（バックネット裏）","指定席SS","SS Reserved"],
+    "指定席SS（3塁側）": ["指定席SS（3塁側）","SS Reserved"],
+    "指定席SS（1塁側）": ["指定席SS（1塁側）","SS Reserved"],
+    "エキサイトシート（1塁側）": ["エキサイトシート（1塁側）"],
+    "エキサイトシート（3塁側）": ["エキサイトシート（3塁側）"],
+    
+    "指定席SS": ["指定席SS","SS指定席","SS Reserved","Reserved SS"],
+    "指定席S": ["指定席S","S指定席","S Reserved","Reserved S"],
+    "指定席A": ["指定席A","A指定席","A Reserved","Reserved A"],    
+    "A席（当日指定）": ["A席（当日指定）","A指定席","A Reserve"],    
+
+    "指定席B": ["指定席B","B指定席","B Reserved","Reserved B"],     
+    
+
+    "全席指定": ["全席指定","指定席","Reserved Seats"],    
+
+
+    "指定席A 1塁": ["指定席A","A指定席","A Reserved","Reserved A","A Reserved","Reserved A 1st Base"],     
+    "指定席A 3塁": ["指定席A","A指定席","A Reserved","Reserved A","A Reserved","Reserved A 3rd Base"],     
+    "指定席B 1塁": ["指定席B","B指定席","B Reserved","Reserved B","B Reserved","Reserved B 1st Base"],     
+    "指定席B 3塁": ["指定席B","B指定席","B Reserved","Reserved B","B Reserved","Reserved B 3rd Base"],     
+    
+    
+    "内野自由席A（1塁側）": ["内野自由席A（1塁側）","自由席","Infield Unreserved Seats","Unreserved Infield Seats","Infield Unreserved","Unreserved Infield"],
+    "内野自由席A（3塁側）": ["内野自由席A（3塁側）","自由席","Infield Unreserved Seats","Unreserved Infield Seats","Infield Unreserved","Unreserved Infield"],
+    "内野自由席B（1塁側）": ["内野自由席B（1塁側）","自由席","Infield Unreserved Seats","Unreserved Infield Seats","Infield Unreserved","Unreserved Infield"],
+    "内野自由席B（3塁側）": ["内野自由席B（3塁側）","自由席","Infield Unreserved Seats","Unreserved Infield Seats","Infield Unreserved","Unreserved Infield"],
+    "外野自由": ["外野自由","自由席","Outfield Unreserved Seats","Outfield Unreserved","Unreserved Outfield"],
+    "うちなーシート": ["うちなーシート"],
+    
+    
+             
+    "指定席S中央（2階席）": ["指定席S中央（2階席）","指定席S","S 指定席","S Reserved","Reserved S"],
+    "指定席S1塁側（2階席）": ["指定席S1塁側（2階席）","指定席S","S 指定席","S Reserved","Reserved S"],
+    "指定席S3塁側（2階席）": ["指定席S3塁側（2階席）","指定席S","S 指定席","S Reserved","Reserved S"],
+    
+    
+    "A指定席【1塁】": ["A指定席【1塁】","指定席A","A 指定席","A Reserved","Reserved A"],
+    "A指定席【3塁】": ["A指定席【3塁】","指定席A","A 指定席","A Reserved","Reserved A"],
+    "B指定席【1塁】": ["B指定席【1塁】","指定席B","B 指定席","B Reserved","Reserved B"],
+    "B指定席【3塁】": ["B指定席【3塁】","指定席B","B 指定席","B Reserved","Reserved B"],
+    "C指定席【1塁】": ["C指定席【1塁】","指定席C","C 指定席","C Reserved","Reserved C"],
+    "C指定席【3塁】": ["C指定席【3塁】","指定席C","C 指定席","C Reserved","Reserved C"],
+    "D指定席【1塁】": ["D指定席【1塁】","指定席D","D 指定席","D Reserved","Reserved D"],
+    "D指定席【3塁】": ["D指定席【3塁】","指定席D","D 指定席","D Reserved","Reserved D"],
+
+    
+    "指定席A中央（2階席）": ["指定席A中央（2階席）","指定席A","A 指定席","A Reserved","Reserved A"],
+    "指定席A1塁側（2階席）": ["指定席A1塁側（2階席）","指定席A","A 指定席","A Reserved","Reserved A"],
+    "指定席A3塁側（2階席）": ["指定席A3塁側（2階席）","指定席A","A 指定席","A Reserved","Reserved A"],   
+    "指定席B中央（2階席）": ["指定席B中央（2階席）","指定席B","B 指定席","B Reserved","Reserved B"],
+    "指定席B1塁側（2階席）": ["指定席B1塁側（2階席）","指定席B","B 指定席","B Reserved","Reserved B"],
+    "指定席B3塁側（2階席）": ["指定席B3塁側（2階席）","指定席B","B 指定席","B Reserved","Reserved B"],
+    "指定席C中央（2階席）": ["指定席C中央（2階席）","指定席C","C 指定席","C Reserved","Reserved C"],
+    "指定席C1塁側（2階席）": ["指定席C1塁側（2階席）","指定席C","C 指定席","C Reserved","Reserved C"],
+    "指定席C3塁側（2階席）": ["指定席C3塁側（2階席）","指定席C","C 指定席","C Reserved","Reserved C"],
+    
+    
+    "外野指定席ライト側": ["外野指定席ライト側","外野指定席ライト"],
+    "レフト巨人応援席": ["レフト巨人応援席","レフト外野指定巨人応援席"],
+    "指定席Sネット裏": ["指定席Sネット裏","S 指定席 (ネット裏)"],
+    "指定席Aネット裏": ["指定席Aネット裏","A Reserve Behind the Net"],
+    "指定席A1塁側": ["指定席A1塁側","A 指定席 (1塁側)"],
+    "指定席A3塁側": ["指定席A3塁側","A 指定席 (3塁側)"],
+    "指定席B1塁側": ["指定席B1塁側","B 指定席 (1塁側)"],
+    "指定席B3塁側": ["指定席B3塁側","B 指定席 (3塁側)"],
+    "外野指定席レフト側": ["外野指定席レフト側","外野指定席レフト"],
+    "外野ビジター応援席": ["外野ビジター応援席","外野指定ビジターチーム応援席"],
+    "内野自由席1階": ["内野自由席1階","Infield Unreserved Seats","Infield Unreserved"],
+    "内野自由席2階": ["内野自由席2階","Infield Unreserved Seats","Infield Unreserved"],
+    "外野自由席": ["外野自由席","外野自由","Outfield Unreserved Seats","Outfield Unreserved","Unreserved Outfield"],
+    "内野S指定席": ["内野S指定席"],
+    
+     
+    "内野A指定席（1塁側）": ["内野A指定席（1塁側）"]
+  }
+}

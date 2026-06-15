@@ -1,0 +1,16 @@
+{
+    "seat_map": {
+    
+    "リングサイドA": ["リングサイドA","ring sideA","Ringside A + Admission ticket"],
+    "リングサイドB": ["リングサイドA","ring sideB","Ringside B + Admission ticket"],
+    "リングサイドC": ["リングサイドA","ring sideC","Ringside C + Admission ticket"],
+ 
+   "ロイヤルブルー": ["ロイヤルブルー","Royal Blue","Royal Blue + Admission ticket"],
+   "ロイヤルイエロー": ["ロイヤルイエロー","Royal Yellow","Royal Yellow + Admission ticket"],
+   "ロイヤルグリーン": ["ロイヤルグリーン","Royal Green","Royal Green + Admission ticket"]
+
+        
+        
+        
+    }
+}

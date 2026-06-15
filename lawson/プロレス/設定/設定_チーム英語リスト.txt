@@ -1,0 +1,31 @@
+{
+  "team_eigo_dict": {
+    "新日本プロレス": "NEW JAPAN PRO-WRESTLING",
+    "スターダム": "STARDOM",
+    "ドラゴンゲート": "DRAGON GATE",
+    "大日本プロレス": "BIG JAPAN PRO-WRESTLING",
+    "プロレスリング・ノア": "PRO-WRESTLING NOAH",
+    "GLEAT": "GLEAT",
+    "OZアカデミー女子プロレス": "OZ ACADEMY",
+    "DDTプロレスリング": "DDT PRO-WRESTLING",
+    "プロレスリングWAVE": "PRO-WRESTLING WAVE",
+    "PURE-J女子プロレス": "PURE-J",
+    "みちのくプロレス": "MICHINOKU PRO-WRESTLING",
+    "センダイガールズプロレスリング": "SENDAI GIRLS’ PRO-WRESTLING",
+    "飛鳥プロレス": "ASUKA PRO-WRESTLING",
+    "大阪プロレス": "OSAKA PRO-WRESTLING",
+    "東京女子プロレス": "TOKYO JOSHI PRO-WRESTLING",
+    "道頓堀プロレス": "DOUTONBORI PRO-WRESTLING",
+    "マーベラス": "MARVELOUS",
+    "ベストボディ・ジャパンプロレス": "BEST BODY JAPAN PRO-WRESTLING",
+    "プロフェッショナルレスリング JUST TAP OUT": "JUST TAP OUT",
+    "全日本プロレス": "ALL JAPAN PRO-WRESTLING",
+    "プロレスリングHEAT-UP": "HEAT-UP",
+    "天龍プロジェクト": "TENRYU PROJECT",
+    "サンセイアールアンドディ presents WRESTLE KINGDOM 20 in 東京ドーム 棚橋弘至引退": "WRESTLE KINGDOM 20",
+    "プロレスリングZERO1": "PRO-WRESTLING ZERO1",
+    "マリーゴールド": "MARIGOLD",
+    "ウナギ・サヤカ": "UNAGI SAYAKA",
+    "Fortune Dream 11": "FORTUNE DREAM 11"
+  }
+}

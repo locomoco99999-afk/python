@@ -1,0 +1,19 @@
+{
+  "team_eigo_dict": {
+
+    "阪神タイガース": "Hanshin Tigers",
+    "横浜DeNAベイスターズ": "Yokohama DeNA BayStars",
+    "読売ジャイアンツ": "Yomiuri Giants",
+    "中日ドラゴンズ": "Chunichi Dragons",
+    "広島東洋カープ": "Hiroshima Toyo Carp",
+    "東京ヤクルトスワローズ": "Tokyo Yakult Swallows",
+
+    "福岡ソフトバンクホークス": "Fukuoka SoftBank Hawks",
+    "北海道日本ハムファイターズ": "Hokkaido Nippon-Ham Fighters",
+    "オリックス・バファローズ": "Orix Buffaloes",
+    "東北楽天ゴールデンイーグルス": "Tohoku Rakuten Golden Eagles",
+    "埼玉西武ライオンズ": "Saitama Seibu Lions",
+    "千葉ロッテマリーンズ": "Chiba Lotte Marines"
+
+  }
+}

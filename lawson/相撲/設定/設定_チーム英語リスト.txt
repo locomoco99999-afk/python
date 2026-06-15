@@ -1,0 +1,5 @@
+{
+  "team_eigo_dict": {
+    "相撲": "sumo"	
+  }
+}
