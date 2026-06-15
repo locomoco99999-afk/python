@@ -1,2 +1,0 @@
-python login_via_Allselect.py
-pause

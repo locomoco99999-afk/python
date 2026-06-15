@@ -1,2 +1,0 @@
-python jleague.py
-pause

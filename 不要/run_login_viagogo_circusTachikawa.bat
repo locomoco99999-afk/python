@@ -1,2 +1,0 @@
-python login_viagogo_circusTachikawa.py
-pause
